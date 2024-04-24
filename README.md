@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachel Ellis
-- 👀 I’m interested in Machine Learning and Front-end
-- 🌱 I’m currently interning as a SWE intern at Intuit
+- 👀 I’m interested in Front-end and Full-stack Web Development as well as UX Design
+- 🌱 I’m currently interning as a SWE intern at Asana and have previously worked at Intuit
 - 📫 You can reach me at rjellis@ualberta.ca or www.linkedin.com/in/rachelellis01
 
 <!---
